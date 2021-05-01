@@ -1,0 +1,10 @@
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\obj\Debug\Parcial1.Dominguez.Consola.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\obj\Debug\Parcial1.Dominguez.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\bin\Debug\Parcial1.Dominguez.Consola.exe.config
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\bin\Debug\Parcial1.Dominguez.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\bin\Debug\Parcial1.Dominguez.Consola.pdb
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\bin\Debug\Parcial1.Dominguez.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\bin\Debug\Parcial1.Dominguez.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\obj\Debug\Parcial1.Dominguez.Consola.csproj.CopyComplete
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\obj\Debug\Parcial1.Dominguez.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Parcial1.Dominguez\Parcial1.Dominguez\Parcial1.Dominguez.Consola\obj\Debug\Parcial1.Dominguez.Consola.pdb
